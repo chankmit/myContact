@@ -1,0 +1,8 @@
+{
+  "name": "myContact",
+  "app_id": "b35aad23",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
